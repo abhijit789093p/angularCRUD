@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "klkk",
+      "lastName": "lll",
+      "email": "mkjojo",
+      "mobile": "mlmlmm",
+      "salary": "2222222222"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
